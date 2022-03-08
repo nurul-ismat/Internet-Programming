@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author GATES
+ * @author ISMAT TANNI
  */
 @WebServlet(urlPatterns = {"/TableServlet"})
 public class TableServlet extends HttpServlet {
